@@ -1,4 +1,4 @@
-# 📊 IMGTOJSON
+
 
 This project is a backend program built using Node.js, Express, Tesseract JS, Google Vision AI, Morgan, Multer, and CORS. It extracts data from images of client's Aadhar Card, PAN Card, and Driving License, and outputs client details in JSON format.
 
